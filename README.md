@@ -18,7 +18,7 @@ Busco constantemente aprender na prática, estudando vulnerabilidades, redes e t
 
 ## 🎯 Objetivos
 
-* Me tornar um profissional de **Cybersegurança (Pentester)**
+* Me tornar um profissional de **Cybersegurança**
 * Aprimorar conhecimentos em **segurança web e redes**
 * Desenvolver aplicações com foco em **segurança**
 * Criar ferramentas próprias voltadas para segurança
