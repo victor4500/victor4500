@@ -92,6 +92,7 @@ Busco constantemente aprender na prática, estudando vulnerabilidades, redes e t
 * Redes de computadores
 * Python para automação
 * Linux voltado para segurança
+* Java
 
 ---
 
